@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Hasnaoui walid](https://www.linkedin.com/in/hasnaoui-walid/)) [![website]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Hasnaoui walid](https://www.linkedin.com/in/hasnaoui-walid/)) [![web site]
 https://portfoliohasnaoui.lovable.app/
 
 # 💻 Tech Stack:
