@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Hasnaoui walid](https://www.linkedin.com/in/hasnaoui-walid/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Hasnaoui walid](https://www.linkedin.com/in/hasnaoui-walid/))<br>
 [![Lovable](https://img.shields.io/badge/Lovable-FF5CAA?logo=heart&logoColor=white)] (https://portfoliohasnaoui.lovable.app/)
 
 # 💻 Tech Stack:
